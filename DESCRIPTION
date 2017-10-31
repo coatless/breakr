@@ -1,0 +1,13 @@
+Package: breakr
+Type: Package
+Title: Create Orderly Chaos in R
+Version: 0.1.0
+Author: c(person("James","Balamuta", email="balamut2@illinois.edu",
+           role = c("aut", "cph", "cre")))
+Description: The objective of this package is to cause chaos in an R session
+    with the penultimate goal of figuring out what is causing the chaos
+    using a debugging approach.
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
